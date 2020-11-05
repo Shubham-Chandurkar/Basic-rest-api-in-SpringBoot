@@ -3,4 +3,4 @@ REST API skeleton in SpringBoot
 
 Problem statement in detail:-
 
-![](problem.jpg)
+![](problem.JPG)
