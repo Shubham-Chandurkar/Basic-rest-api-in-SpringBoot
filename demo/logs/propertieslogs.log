@@ -1,0 +1,10 @@
+[INFO ] 2020-11-05 11:48:59.397 [main] DemoApplication - Starting DemoApplication on Sudo with PID 5808 (D:\Spring-Boot-pro\demo\target\classes started by Sudo in D:\Spring-Boot-pro\demo)
+[DEBUG] 2020-11-05 11:48:59.402 [main] DemoApplication - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+[INFO ] 2020-11-05 11:48:59.403 [main] DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-05 11:49:01.052 [main] DemoApplication - Started DemoApplication in 2.034 seconds (JVM running for 3.23)
+[INFO ] 2020-11-05 11:49:09.096 [http-nio-8080-exec-2] ProjectController - Successfully execute GetProject method
+[INFO ] 2020-11-05 11:49:12.340 [http-nio-8080-exec-3] ProjectController - Successfully execute AddProject method
+[INFO ] 2020-11-05 11:49:12.884 [http-nio-8080-exec-4] ProjectController - Successfully execute AddProject method
+[INFO ] 2020-11-05 11:49:13.681 [http-nio-8080-exec-5] ProjectController - Successfully execute AddProject method
+[INFO ] 2020-11-05 11:49:14.313 [http-nio-8080-exec-6] ProjectController - Successfully execute AddProject method
+[INFO ] 2020-11-05 11:49:16.898 [http-nio-8080-exec-7] ProjectController - Successfully execute GetProject method
